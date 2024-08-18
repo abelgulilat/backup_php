@@ -1,0 +1,8 @@
+*{
+    padding: 0;margin: 0;
+}
+.box{
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
